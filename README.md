@@ -22,6 +22,6 @@ Creates a minimal react application with following tree:
 Use it with create-react-app:
 
 ```
-create-react-app my-app --template cra-template-clean
+npx create-react-app my-app --template clean
 ```
 
